@@ -25,7 +25,7 @@ Pokedex chiquita
 
 ## Tabla habilidades
 
-1. habilidades_id(PK)
+1. Habilidades_id(PK)
 1. Nombre (UQ)
 1. Descripción (UQ)
 
