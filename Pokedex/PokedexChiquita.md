@@ -36,8 +36,8 @@ Pokedex chiquita
 
 ## Modelo entidad relación
 
-![Hola](Imagenes\ModeloEntidadRelacion.drawio.png)
+![Hola](Imagenes/ModeloEntidadRelacion.drawio.png)
 
 ## Modelo Relacional de la base de datos
 
-![Hola](Imagenes\ModeloRelacionalDeLaBD.drawio.png)
+![Hola](Imagenes/ModeloRelacionalDeLaBD.drawio.png)
