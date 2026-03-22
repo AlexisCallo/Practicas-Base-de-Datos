@@ -18,22 +18,21 @@ Pokedex chiquita
 
 ---
 
-## Tabla tipos y habilidades
+## Tabla tipos
 
-### tipos_id(PK)
+1. tipos_id(PK)
+1. Nombre (UQ)
 
-1. Nombre
+## Tabla habilidades
 
-### habilidades_id(FK)
-
-1. Nombre
-1. Descripción
+1. habilidades_id(PK)
+1. Nombre (UQ)
+1. Descripción (UQ)
 
 ## Tabla Pibote tipos y pokemon
 
-* Pokemon_id(FK)(PK)
-
-* tipos_id(FK)(PK)
+1. Pokemon_id(FK)(PK)
+1. tipos_id(FK)(PK)
 
 ## Modelo entidad relación
 
