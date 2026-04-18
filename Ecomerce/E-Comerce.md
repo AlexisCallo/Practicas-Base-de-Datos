@@ -7,8 +7,9 @@
 - cliente_id **(PK)**
 - nombre
 - apellido
-- email
-- direccion
+- email **(UQ)**
+- direccion **(UQ)**
+- telefono
 - cp
 - ciudad
 - pais_id **(FK)**
@@ -40,7 +41,7 @@
 
 - pais_id **(PK)**
 - nombre
-- dominio
+- dominio **(UQ)**
 
 ## Relaciones
 
